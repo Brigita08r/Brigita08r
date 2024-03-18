@@ -1,1 +1,1 @@
-hi 
+![tryhackme stats](https://raw.githubusercontent.com/<shiksnosparnis>/<shiksnosparnis>/master/assets/thm_propic.png)
